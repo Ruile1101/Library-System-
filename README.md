@@ -43,6 +43,4 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Contact
 
-Mak Ruile - makruile1101@e.newera.edu.my
-
 Project Link: [https://github.com/Ruile1101/Pharmacy-System-.git]
